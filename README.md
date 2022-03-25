@@ -1,4 +1,4 @@
-# roggenbuck
+# Roggenbuck
 
 - This will likely be a place I put Math and Science related repositories.
 - I may use this for sharing papers or other non software development projects.
